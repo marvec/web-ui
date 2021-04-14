@@ -19,7 +19,7 @@
 
 import {BlocklyComponent} from './blockly-component';
 import {BlocklyUtils, MasterBlockType} from '../blockly-utils';
-import {COLOR_CYAN, COLOR_PINK} from '../../../../core/constants';
+import {COLOR_CYAN} from '../../../../core/constants';
 
 declare var Blockly: any;
 
